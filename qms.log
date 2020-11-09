@@ -1,0 +1,258 @@
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajr@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1001
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1002
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1003
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Kira, phoneNumber=9685873500, appointmentDate=null, email=kaira@gmail.com, age=45, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1004
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406492, appointmentDate=null, email=rajrua@gmail.com, age=21, gender=female, problemName=Headache, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Kaira, phoneNumber=9091406135, appointmentDate=null, email=kaira@gmail.com, age=45, gender=female, problemName=Headache, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1005
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1006
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=rajrupa, phoneNumber=9091405, appointmentDate=null, email=rajru@gmaicom, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1007
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1008
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1009
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1010
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Kaira, phoneNumber=9685873500, appointmentDate=null, email=kaira@gmail.com, age=45, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1011
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1012
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1013
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajr@gmail.com, age=21, gender=female, problemName=Headache, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1014
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Sujoy, phoneNumber=9434346523, appointmentDate=null, email=sujoy@gmail.com, age=22, gender=male, problemName=Heart, doctorName=null, appointmentStatus=null]
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-19-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1015
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1021
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1022
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1023
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1024
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1025
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1026
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1027
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1028
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1029
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1030
+2019-02-23-main-INFO -com.capgemini.doctors.ui.Client:log4j file configured..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=Rajru@gmail.com, age=21, gender=female, problemName=Headache, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1031
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1032
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1033
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1034
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao: DoctorAppointmentDao class
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:InAppointment data is : DoctorAppointment [appointmentId=null, patientName=Rajrupa, phoneNumber=9091406135, appointmentDate=null, email=rajru@gmail.com, age=21, gender=female, problemName=Gynecology, doctorName=null, appointmentStatus=null]
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection object created
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:connection established..
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:statement executed, record inserted
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:resultset cretaed
+2019-02-23-main-INFO -com.capgemini.doctors.dao.DoctorAppointmentDao:generated id is: 1035
